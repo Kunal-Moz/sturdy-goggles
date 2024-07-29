@@ -1,4 +1,6 @@
-# Pedagogical codes developed for computational physics and data analysis as a part of the course - Computational Physics in University at Buffalo
+# sturdy-goggles
+======
+Pedagogical codes developed for computational physics and data analysis as a part of the course - Computational Physics in University at Buffalo.
 ======
 Contains modules developed for various problems on the topic of : 
 * C++ and Python Routines : Array programming, Vectorization
@@ -8,8 +10,5 @@ Contains modules developed for various problems on the topic of :
 * Boudary Value Problems
 * Monte Carlo methods : Ising model, Quantum Monte Carlo
 * Video Game development : Turn based combat game without any graphics
-
-
-This updates the now-deprecated project of [PHY410](https://github.com/rappoccio/PHY410) developed by Prof. Richard Gonsalves (and updated by Prof. Salvatore Rappoccio).
 
 
