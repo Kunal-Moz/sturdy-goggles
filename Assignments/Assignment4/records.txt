@@ -1,0 +1,11 @@
+Physics,Tip,Q,87.3,95.0
+Literature,Dawg,Phife,95.0,85.0,98.0
+Physics,Muhammad,Ali Shaheed,97.0,80.0
+History,White,Jarobi,85.0,84.0
+History,Bar,Foo,90.0,99.0
+Physics,Chapman,Graham,90.,94.0
+History,Cleese,John,80.,86.0
+Physics,Palin,Michael,87.,85.0
+Literature,Idle,Eric,91.,92.,93.
+Physics,Gilliam,Terry,80.,99.0
+Literature,Cleveland,Carol,100.,100.,100.

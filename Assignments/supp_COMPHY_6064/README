@@ -1,0 +1,54 @@
+Supplementary material for article:
+
+Improvements on non-equilibrium and transport Green function techniques: The next-generation transiesta
+
+Contents
+--------
+
+- GreenFunction2.ipynb
+  This is an IPython Notebook which contains interactive Python scripting
+  using a web-browser.
+
+  It may be opened by:
+  
+    jupyter notebook GreenFunction2.ipynb
+
+  or, if you have an old IPython installation (pre 4.0):
+
+    ipython notebook GreenFunction2.ipynb
+
+  This notebook is much similar to the Mathematica notebook, in terms of use.
+
+
+- Hancock_A.py, Hancock_C.py, Hancock_D.py, Hancock_F.py, Hancock_G.py
+  REQUIRES sisl to be installed.
+
+  These files implement the tight-binding model of graphene using
+  various tight-binding parameter sets, both orthogonal and non-orthogonal
+  variants.
+
+  When running these:
+
+    python Hancock_A.py
+
+  they calculate the graphene band-structure and plot it using matplotlib.
+
+  Note models A, C and D are using orthogonal tight-binding parameter sets,
+  while F and G are non-orthogonal basis sets.
+
+- Hancock_F_transport.py
+  REQUIRES sisl to be installed.
+
+  This file creates input for tbtrans to run a pristine graphene transport
+  problem.
+  It creates the input matrices for tbtrans and also creates the fdf file
+  needed to calculate the transport properties of the tight-binding model.
+
+- generic_functions.py
+  These helper functions are heavily used in the GreenFunction2.ipynb
+  notebook and it is a requirement for the working of the notebook.
+
+  It implements the Sanchez self-energy calculation in Python.
+
+  NOTE: This file is not intended to be runned separately.
+
