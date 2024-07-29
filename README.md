@@ -7,6 +7,7 @@ Contains modules developed for various problems on the topic of :
 * ODE and PDE solvers : problems explored on Maxwell's equations, Dynamical systems, Fluid Dynamics.
 * Boudary Value Problems
 * Monte Carlo methods : Ising model, Quantum Monte Carlo
+* Video Game development : Turn based combat game without any graphics
 
 
 This updates the now-deprecated project of [PHY410](https://github.com/rappoccio/PHY410) developed by Prof. Richard Gonsalves (and updated by Prof. Salvatore Rappoccio).
