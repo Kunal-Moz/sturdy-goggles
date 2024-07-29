@@ -1,5 +1,5 @@
 # sturdy-goggles
-Pedagogical code development for different problems in Computational physics and Data Sciences.
+## Pedagogical code development for different problems in Computational physics and Data Sciences.
 
 Contains topics including : 
 --> C++, Python, swig (Python - C++ implementation) 
