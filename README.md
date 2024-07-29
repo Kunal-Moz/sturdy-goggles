@@ -4,6 +4,7 @@
 Pedagogical codes developed for computational physics and data analysis as a part of the course - Computational Physics in University at Buffalo.
 
 ======
+
 Contains modules developed for various problems on the topic of : 
 * C++ and Python Routines : Array programming, Vectorization
 * Data Aanlysis : Spectral analysis, Data fitting
